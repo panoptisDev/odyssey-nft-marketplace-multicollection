@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Boska';
+    src: url('/fonts/boska/Boska-Bold.woff2') format('woff2'),
+         url('/fonts/boska/Boska-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
