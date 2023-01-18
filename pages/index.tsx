@@ -37,7 +37,7 @@ const metadata = {
     <meta name="Odyssey" content={description} />
   ),
   tagline: (tagline: string | undefined) => (
-    <>{tagline || '33 Collections Curated by Odyssey'}</>
+    <>{tagline || 'Top 33 Collections Curated by Odyssey'}</>
   ),
   image: (image?: string) => {
     if (image) {
